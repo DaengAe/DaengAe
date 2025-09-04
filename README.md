@@ -30,14 +30,14 @@
     </div>
           </div>
     </div>
-    <div align= "center">
+    <div align= "left">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=https://www.notion.so/29124d92f01a4b739294362291d254e7> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/29124d92f01a4b739294362291d254e7"> </a>
+    <div align= "left"> <a href=https://www.notion.so/29124d92f01a4b739294362291d254e7> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/29124d92f01a4b739294362291d254e7"> </a>
           </div>  <br> 
-    <div align= "center">  </div> 
+    <div align= "left">  </div> 
     </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=daengae&show_icons=true&theme=chartreuse-dark"
+    <div align= "left"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "left"> <img src="https://github-readme-stats.vercel.app/api?username=daengae&show_icons=true&theme=chartreuse-dark"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daengae&layout=compact&bg_color=180,000000,&title_color=6600ff&text_color=6600ff"
            /> </div> 
     </div>
