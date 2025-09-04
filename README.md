@@ -44,6 +44,4 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daengae&layout=compact&bg_color=180,000000,&title_color=6600ff&text_color=6600ff"
            /> </div> 
     </div>
-
-    [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daengae&show_icons=true&theme=radical)
     
