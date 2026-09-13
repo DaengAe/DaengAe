@@ -67,14 +67,18 @@ Toss Payments 연동 결제/구독 시스템 설계. 비동기 결제 승인 무
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 </p>
 
+<!--
 ---
 
 ### 📊 GitHub Stats
+github-readme-stats.vercel.app 공용 인스턴스가 (2026-09-13 기준) 다운돼 있어 일단 주석 처리함.
+서비스 복구되면 아래 두 줄 주석 해제하면 됨.
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=DaengAe&show_icons=true&theme=default&hide_border=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaengAe&layout=compact&hide_border=true" height="165" />
 </p>
+-->
 
 ---
 
