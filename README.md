@@ -25,17 +25,12 @@
 
 ### 🚀 대표 프로젝트
 
-**[매삼코 (Maesamco)](https://github.com/maesamco/maesamco-backend)** — AI 기반 Java 마이크로러닝 플랫폼 `2026.08~`
-Java 학습자가 문제를 풀고 AI에게 코드를 설명하며 이해도를 점검하는 MSA 학습 서비스. Coaching Service 도메인을 전담해 Outbox 이벤트 유실 방지, LLM 서킷브레이커, Redis 분산락, Gateway 인증 설계를 담당했습니다.
-
-**[Sparta Logistics Platform](https://github.com/develop-9/delivery-project)** — 허브 기반 B2B 물류·배송 MSA `2026.07~08`
-API Gateway JWT 인증, 분산 환경 동시성 제어(`pg_advisory_xact_lock`, `@Version`), Redis 장애 대응 Outbox+RabbitMQ 전환을 담당했습니다.
-
-**[민생회복쿠폰 사용처 지도 서비스](https://github.com/livelihoodCoupon/Server-Backend)** — 위치 기반 검색 서비스 `2025.09~10`
-카카오 API·Elasticsearch·PostGIS 기반 대규모 데이터 수집·검색. 반경 검색 응답 시간 `800ms → 120ms`(85%↓), 검색 응답 `300ms → 90ms`(70%↓) 개선.
-
-**[Sparki](https://github.com/Team-Okebari/Server-Backend)** — 디자이너 영감·레퍼런스 관리 플랫폼 `2025.10~11`
-Toss Payments 연동 결제/구독 시스템 설계. 비동기 결제 승인 무결성 문제를 상태 세분화와 복구 스케줄러로 해결했습니다.
+| 프로젝트 | 기간 | 설명 |
+|---|---|---|
+| **[매삼코 (Maesamco)](https://github.com/maesamco/maesamco-backend)**<br/>AI 기반 Java 마이크로러닝 플랫폼 | 2026.08~ | Java 학습자가 문제를 풀고 AI에게 코드를 설명하며 이해도를 점검하는 MSA 학습 서비스. Coaching Service 전담 — Outbox 이벤트 유실 방지, LLM 서킷브레이커, Redis 분산락, Gateway 인증 설계 |
+| **[Sparta Logistics Platform](https://github.com/develop-9/delivery-project)**<br/>허브 기반 B2B 물류·배송 MSA | 2026.07~08 | API Gateway JWT 인증, 분산 환경 동시성 제어(`pg_advisory_xact_lock`, `@Version`), Redis 장애 대응 Outbox+RabbitMQ 전환 |
+| **[민생회복쿠폰 사용처 지도 서비스](https://github.com/livelihoodCoupon/Server-Backend)**<br/>위치 기반 검색 서비스 | 2025.09~10 | 카카오 API·Elasticsearch·PostGIS 기반 대규모 데이터 수집·검색. 반경 검색 `800ms→120ms`(85%↓), 검색 응답 `300ms→90ms`(70%↓) |
+| **[Sparki](https://github.com/Team-Okebari/Server-Backend)**<br/>디자이너 영감·레퍼런스 관리 플랫폼 | 2025.10~11 | Toss Payments 연동 결제/구독 시스템 설계. 비동기 결제 승인 무결성 문제를 상태 세분화·복구 스케줄러로 해결 |
 
 ---
 
